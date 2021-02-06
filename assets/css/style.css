@@ -56,7 +56,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
-    /*Removed css image, added to html. */
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-position: center;
 }
 
